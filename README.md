@@ -5,7 +5,7 @@ The code for the IJCNN 2024 paper 'Beyond Dropout: Robust Convolutional Neural N
 
 If this code helps you please quote：
 
-########
+```
 @inproceedings{gong2024beyond,
   title={Beyond dropout: Robust convolutional neural networks based on local feature masking},
   author={Gong, Yunpeng and Zhang, Chuangliang and Hou, Yongjie and Chen, Lifei and Jiang, Min},
@@ -14,3 +14,4 @@ If this code helps you please quote：
   year={2024},
   organization={IEEE}
 }
+```
